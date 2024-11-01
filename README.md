@@ -1,4 +1,4 @@
-# CS-4440 Introduction to Operating Systems
+# CS 4440 Introduction to Operating Systems
 
 This repository holds assignments and projects related to **CS-4440: Introduction to Operating Systems**. The coursework explores core operating system topics, including process management, memory handling, and performance evaluation.
 
